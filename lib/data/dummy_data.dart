@@ -152,7 +152,7 @@ const dummyMeals = [
     title: 'Hawaiian Pizza',
     imageUrl:
         'https://img.kidspot.com.au/pZnR2nZu/kk/2015/03/hawaiian-pizza-recipe-605894-2.jpg',
-    categories: ['c6'],
+    categories: ['c6', 'c2'],
     ingredients: ['Pizza Dough', 'Ham', 'Pineapple', 'Cheese'],
     steps: [
       'Preheat the oven and roll out the pizza dough.',
@@ -237,7 +237,7 @@ const dummyMeals = [
     title: 'Stuffed Bell Peppers',
     imageUrl:
         'https://images-gmi-pmc.edge-generalmills.com/3512d6fb-41d3-41e7-a66d-f234a5942b6a.jpg',
-    categories: ['c5', 'c10'],
+    categories: ['c5', 'c10', 'c2'],
     ingredients: ['Bell Peppers', 'Ground Beef', 'Rice', 'Tomato Sauce'],
     steps: [
       'Preheat the oven and prepare the bell peppers.',
